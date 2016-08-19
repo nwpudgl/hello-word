@@ -1,1 +1,2 @@
 this is a test file, i use this file  to get know the useage of github
+this word is from branch1 
